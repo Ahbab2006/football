@@ -20,7 +20,8 @@
     background-position: center;
     object-fit: cover;
     background-repeat: no-repeat;
-    background-image: url('./images/e01ddd34d3a32984529a5a62c75378c3177fa50f.png');
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('./images/e01ddd34d3a32984529a5a62c75378c3177fa50f.png');
 }
 
 nav {
