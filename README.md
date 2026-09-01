@@ -17,8 +17,7 @@ Note: This project is currently designed for desktop screens only and is not res
 HTML5
 CSS3
 Responsive design is not implemented in this version.
-📌 Project Goal
 
-The main goal of this project is to create an attractive football tournament website interface that presents important World Cup information in a simple and visually appealing way.
+📌 Project Goal   The main goal of this project is to create an attractive football tournament website interface that presents important World Cup information in a simple and visually appealing way.
 
 Live Link:  https://ahbab2006.github.io/football/ 
