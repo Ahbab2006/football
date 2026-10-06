@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚽ FIFA World Cup 2026 Website
 
 A visually engaging FIFA World Cup 2026 themed website designed to showcase the tournament experience, host cities, match schedules, and ticket booking options. The project focuses on a clean, modern sports-inspired UI with dedicated sections for tournament highlights, host cities, upcoming matches, and user interaction.
